@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://doobeimil.filipreese.com/sitemap.xml
